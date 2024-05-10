@@ -1,4 +1,3 @@
-Sure, here's a README.md file for your task:
 
 ```markdown
 # Image Assignment and Zipping Task
