@@ -36,8 +36,7 @@ python zip.py
 ### 4. Assignment Details
 Each student will receive a zip file containing a specific number of folders with images assigned for cleaning. The number of images assigned to each student is customizable by modifying the variables in `new22.py`.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 Special thanks to contributors who helped in developing and testing this tool.
